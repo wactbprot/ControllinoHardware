@@ -3,7 +3,7 @@
 		{
 			"name": "Controllino HW",
 			"maintainer": "Controllino",
-			"websiteURL": "",
+			"websiteURL": "https://github.com/Controllino/ControllinoHardware",
 			"email": "info@controllino.cc",
 			"help": {
 				"online": "https://github.com/Controllino/ControllinoHardware/issues"
