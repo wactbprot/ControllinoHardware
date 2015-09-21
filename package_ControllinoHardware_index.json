@@ -22,11 +22,9 @@
 						"online": "https://github.com/Controllino/ControllinoHardware/issues"
 					},
 					"boards": [
-						{
-							"name": "Controllino MINI",
-							"name": "Controllino MAXI",
-							"name": "Controllino MEGA"
-						}
+						{ "name": "Controllino MINI" },
+						{ "name": "Controllino MAXI" },
+						{ "name": "Controllino MEGA" }
 					],
 					"toolsDependencies": [
 						{
