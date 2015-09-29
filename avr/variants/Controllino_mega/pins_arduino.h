@@ -22,7 +22,9 @@
   $Id: wiring.h 249 2007-02-03 16:52:51Z mellis $
 */
 
-#include "../standard/pins_arduino.h"
+#include "../mega/pins_arduino.h"
+#undef NUM_DIGITAL_PINS 
+#define NUM_DIGITAL_PINS            68
 #undef NUM_ANALOG_INPUTS
-#define NUM_ANALOG_INPUTS           8
-#define CONTROLLINO_MINI
+#define NUM_ANALOG_INPUTS           16
+#define CONTROLLINO_MEGA
