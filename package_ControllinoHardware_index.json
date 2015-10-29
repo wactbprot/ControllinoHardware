@@ -16,8 +16,8 @@
 					"category": "Contributed",
 					"url": "http://controllino.cc/download/ControllinoHW.zip",
 					"archiveFileName": "ControllinoHW.zip",
-					"checksum": "SHA-256:0926ed3aea89ee0f7f73349524ff122cdbb7113c4c49150c926eb019006ac779",
-					"size": "212819",
+					"checksum": "SHA-256:a8e30e2e9f3c1adce2471d468f749f11bcf747cec058cd3e5c794f9d9f6935c5",
+					"size": "207555",
 					"help": {
 						"online": "https://github.com/Controllino/ControllinoHardware/issues"
 					},
