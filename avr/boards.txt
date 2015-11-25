@@ -17,13 +17,13 @@ mini.upload.maximum_size=32256
 mini.upload.maximum_data_size=2048
 mini.upload.speed=115200
 
-mini.bootloader.tool=avrdude
-mini.bootloader.low_fuses=0xFF
-mini.bootloader.high_fuses=0xDE
-mini.bootloader.extended_fuses=0x05
-mini.bootloader.unlock_bits=0x3F
-mini.bootloader.lock_bits=0x0F
-mini.bootloader.file=optiboot/optiboot_atmega328.hex
+#mini.bootloader.tool=avrdude
+#mini.bootloader.low_fuses=0xFF
+#mini.bootloader.high_fuses=0xDE
+#mini.bootloader.extended_fuses=0x05
+#mini.bootloader.unlock_bits=0x3F
+#mini.bootloader.lock_bits=0x0F
+#mini.bootloader.file=optiboot/optiboot_atmega328.hex
 
 mini.build.mcu=atmega328p
 mini.build.f_cpu=16000000L
@@ -61,9 +61,9 @@ maxi.upload.protocol=wiring
 maxi.upload.maximum_size=253952
 maxi.upload.speed=115200
 
-maxi.bootloader.high_fuses=0xD8
-maxi.bootloader.extended_fuses=0xFD
-maxi.bootloader.file=stk500v2/stk500boot_v2_mega2560.hex
+#maxi.bootloader.high_fuses=0xD8
+#maxi.bootloader.extended_fuses=0xFD
+#maxi.bootloader.file=stk500v2/stk500boot_v2_mega2560.hex
 maxi.build.mcu=atmega2560
 
 ##############################################################
@@ -96,7 +96,7 @@ mega.upload.protocol=wiring
 mega.upload.maximum_size=253952
 mega.upload.speed=115200
 
-mega.bootloader.high_fuses=0xD8
-mega.bootloader.extended_fuses=0xFD
-mega.bootloader.file=stk500v2/stk500boot_v2_mega2560.hex
+#mega.bootloader.high_fuses=0xD8
+#mega.bootloader.extended_fuses=0xFD
+#mega.bootloader.file=stk500v2/stk500boot_v2_mega2560.hex
 mega.build.mcu=atmega2560

@@ -1,5 +1,5 @@
-Controllino Hardware package for Arduino IDE 1.5+
-Version 1.1
+Controllino Hardware package for Arduino IDE 1.6.6
+Version 1.2
 
 Contains frozen arduino core, several arduino libraries and pin definiton files.
 
